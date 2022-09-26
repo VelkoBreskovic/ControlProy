@@ -2,7 +2,7 @@
     <string name="app_name">ControlProy</string>
     <string name="metodologia">Metodologia</string>
     <string name="Telefono">Telefono</string>
-    <string name="Duracion">Duracion de proyecto</string>
+    <string name="Duracion">Duracion en semanas</string>
     <string name="nombre_proyecto">Nombre Proyecto</string>
     <string name="guardar">Guardar</string>
 
