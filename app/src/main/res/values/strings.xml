@@ -7,7 +7,7 @@
     <string name="guardar">Guardar</string>
 
     <string-array name="Metodologia">
-        <item>Metodologia</item>
+        <item>Metodologias</item>
         <item>Waterproof</item>
         <item>Scrum</item>
         <item>XP</item>
