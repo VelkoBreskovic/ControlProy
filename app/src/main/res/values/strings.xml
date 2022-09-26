@@ -1,5 +1,10 @@
 <resources>
     <string name="app_name">ControlProy</string>
+    <string name="metodologia">Metodologia</string>
+    <string name="Telefono">Poto</string>
+    <string name="Duracion">Duracion de proyecto</string>
+    <string name="nombre_proyecto">Nombre Proyecto</string>
+    <string name="guardar">Guardar</string>
 
     <string-array name="Metodologia">
         <item>Waterproof</item>
